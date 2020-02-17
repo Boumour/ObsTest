@@ -1,0 +1,425 @@
+{
+  "@@last_modified": "2018-12-16T14:55:33.523591",
+  "title": "Contact Us",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnsubmit": "Soumettre",
+  "@btnsubmit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "locale": "Arabe",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblname": "Nom",
+  "@lblname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblphone": "Phone",
+  "@lblphone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblemail": "Email",
+  "@lblemail": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+ 
+  "in_progress": "En cours...",
+  "@in_progress": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "changing": "En changeant...",
+  "@changing": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "login_in": "Connexion...",
+  "@login_in": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "registering": "Enregistrement...",
+  "@registering": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "no_internet": "Pas de connexion Internet",
+  "@no_internet": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "login_successful": "Connexion réussie",
+  "@login_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "login_unsuccessful": "Connexion infructueuse",
+  "@login_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "password_change_successful": "Changer le mot de passe réussi",
+  "@password_change_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "password_change_unsuccessful": "Changer le mot de passe non réussi",
+  "@password_change_unsuccessful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "register_successful": "S'inscrire avec succès",
+  "@register_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "register_unsuccessful": "S'inscrire sans succès",
+  "@register_unsuccessful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "user_already": "Utilisateur déjà inscrit",
+  "@user_already": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "enter_password": "S'il vous plait entrez votre mot de passe",
+  "@enter_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "enter_new_password": "Veuillez entrer votre nouveau mot de passe",
+  "@enter_new_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "enter_old_password": "Veuillez entrer votre ancien mot de passe",
+  "@enter_old_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+"enter_email": "S'il vous plaît entrez votre email",
+  "@no_internet": {
+    "type": "text",
+    "placeholders": {}
+  }
+"enter_valid_email": "Veuillez entrer un email valide",
+  "@enter_valid_email": {
+    "type": "text",
+    "placeholders": {}
+  }
+"enter_name": "S'il vous plaît entrez votre nom et prenom",
+  "@enter_name": {
+    "type": "text",
+    "placeholders": {}
+  }
+"invalide_old_password": "Ancien mot de passe invalide",
+  "@invalide_old_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+"not_registred": "Pas encore inscrit? Inscrire maintenant!",
+  "@not_registred": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+"already_registred": "Déjà inscrit? Connectez-vous maintenant!",
+  "@already_registred": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "login": "S'identifier",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "register": "S'inscrire",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "password": "Mot de passe",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "old_password": "Ancien mot de passe",
+  "@old_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "new_password": "Nouveau mot de passe",
+  "@new_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "change_password": "Changer le mot de passe",
+  "@change_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "logout": "Déconnexion",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "l_Name": "Prénom",
+  "@l_Name": {
+    "type": "text",
+    "placeholders": {}
+  }
+"choose_type": "Votre type",
+  "@choose_type": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+
+
+
+  "Q1": "Ce matin avez vous oublié de prendre votre médicament?",
+  "@Q1": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q2": "Depuis la dernière consultation avez vous été en panne de médicament?",
+  "@Q2": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q3": "Vous est il arrivé de prendre votre traitement avec retard par rapport à l'heure habituelle?",
+  "@Q3": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q4": "Vous est il arrivé de ne pas prendre votre traitement parce que certains jours votre mémoire vous fait défaut?",
+  "@Q4": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q5": "Vous est il arrivé de ne pas prendre votre traitement parce que certains jours vous avez l'impression que votre traitement vous fait plus mal que de bien?",
+  "@Q5": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q6": "Pensez vous que vous avez trop de comprimés à prendre?",
+  "@Q6": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "yes": "Oui",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "no": "Non",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+  "question": "Question",
+  "@question": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "of": "sur",
+  "@of": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "start": "Démarrer",
+  "@start": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "reset": "Réinitialiser le questionnaire",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "bonne": "Bonne observance",
+  "@bonne": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "moy": "Minime probléme d'observance",
+  "@moy": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "mal": "Mauvaise observance",
+  "@mal": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+
+
+
+
+
+
+
+  "minute": "Minute",
+  "@minute": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "qst": "Questions",
+  "@qst": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "level": "Niveau",
+  "@level": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "normal": "Normal",
+  "@normal": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "test": "Test",
+  "@test": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "result": "Votre Resultat :",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  }
+  
+  "medecament": "Médicament",
+  "@medecament": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "slt": "Salut, ",
+  "@slt": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "home": "Page d'accueil",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "about": "À propos de nous",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "settings": "Réglages",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "testdesc": "Ce test est destiné à permettre au patient ou à l’utilisateur de vérifier son respect de l’ordonnance en ce qui concerne l’interaction des médicaments avec son état de santé.",
+  "@testdesc": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "Aboutusdesc": "Utilisable par les professionnels de santé et les patients en auto-évaluation, cette application est un outil simple et validé permettant d’estimer l’observance des médicaments chez les hémodialysés chroniques et les greffés rénaux à l’aide du questionnaire de Girerd.",
+  "@testdesc": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "nadia": "Nadia BOUCHEMLA",
+  "@nadia": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "meriem": "Meriem CHETTATI",
+  "@meriem": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "mohamed": "Mohamed BOUMOUR",
+  "@mohamed": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "ourteam": "Notre équipe",
+  "@ourteam": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "doctor": "Médecin",
+  "@doctor": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "dev": "développeur",
+  "@dev": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+  "goodword": "bien",
+  "@goodword": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "badword": "mauvais",
+  "@badword": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "normalword": "Ordinaire",
+  "@normalword": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "resultsdesc": "Les résultats de vos tests dans les 30 derniers jours",
+  "@resultsdesc": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "sexe": "Votre Sexe",
+  "@sexe": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "born": "Date de Naissance",
+  "@born": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "ok": "Sauvegarder",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "cancel": "Annuler",
+  "@born": {
+    "type": "text",
+    "placeholders": {}
+  }
+  
+}

@@ -1,0 +1,427 @@
+{
+  "@@last_modified": "2018-12-16T14:55:33.523591",
+  "title": "اتصل بنا",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnsubmit": "أرسل",
+  "@btnsubmit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "locale": "ar",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblname": "الاسم العائلي",
+  "@lblname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblphone": "رقم الهاتف",
+  "@lblphone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblemail": "البريد الإلكتروني",
+  "@lblemail": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+  "in_progress": "...جار المعاينة",
+  "@in_progress": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "changing": "...جار التغيير",
+  "@changing": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "login_in": "جار الأتصال",
+  "@login_in": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "registering": "تسجيل",
+  "@registering": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "no_internet": "لا يوجد اتصال بالإنترنت",
+  "@no_internet": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "login_successful": "تسجيل الدخول تم بنجاح",
+  "@login_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "login_unsuccessful": "فشل أتناء تسجيل الدخول",
+  "@login_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "password_change_successful": "تغيير كلمة المرور بنجاح",
+  "@password_change_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "password_change_unsuccessful": "تغيير كلمة المرور غير ناجحة",
+  "@password_change_unsuccessful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "register_successful": "تم التسجيل بنجاح",
+  "@register_successful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "register_unsuccessful": "فشل أتناء التسجيل",
+  "@register_unsuccessful": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "user_already": "يوجد مستخدم بهدا الأسم",
+  "@user_already": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "enter_password": "من فضلك أدخل كلمة مرورك",
+  "@enter_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "enter_new_password": "الرجاء إدخال كلمة المرور الجديدة",
+  "@enter_new_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "enter_old_password": "الرجاء إدخال كلمة المرور القديمة",
+  "@enter_old_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+"enter_email": "من فضلك ادخل بريدك الالكتروني",
+  "@no_internet": {
+    "type": "text",
+    "placeholders": {}
+  }
+"enter_valid_email": "يرجى إدخال بريد إلكتروني صحيح",
+  "@enter_valid_email": {
+    "type": "text",
+    "placeholders": {}
+  }
+"enter_name": "الرجاء إدخال اسمك الكامل",
+  "@enter_name": {
+    "type": "text",
+    "placeholders": {}
+  }
+"invalide_old_password": "كلمة المرور القديمة غير صحيحه",
+  "@invalide_old_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+"not_registred": "غير مسجل حتى الآن؟ سجل الان",
+  "@not_registred": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+"already_registred": "لديك حساب؟ تسجيل الدخول الآن",
+  "@already_registred": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "register": "انشئ حساب",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "password": "كلمة السر",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "old_password": "كلمة المرور القديمة",
+  "@old_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "new_password": "كلمة مرور جديدة",
+  "@new_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "change_password": "تغيير كلمة المرور",
+  "@change_password": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "logout": "اخرج",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "l_Name": "الاسم الشخصي",
+  "@l_Name": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "choose_type": "صنف ",
+  "@choose_type": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+
+
+  
+  "Q1": "هل نسيتَ تناول دوائك في هذا الصباح؟",
+  "@Q1": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q2": "منذ آخر استشارة طبية هل توقفت عن تناول الدواء؟",
+  "@Q2": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q3": "هل اضطررت لتلقي العلاج الخاص بك في وقت متأخر مقارنة بالوقت المعتاد؟",
+  "@Q3": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q4": "هل سبق لك أن لم تأخذ علاجك لأنه في بعض الأيام لان الذاكرة تخونك؟",
+  "@Q4": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q5": "هل وصلت لوضعية ان لا تتناول دوائك لعدة ايام بحجة أنه يضرك اكتر مما ينفعك؟",
+  "@Q5": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "Q6": "هل تعتقد أنه لديك عدة عقاقيرعليك ان تتناولها؟",
+  "@Q6": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "yes": "نعم",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "no": "لا",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+  "question": "السؤال",
+  "@question": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "of": "على",
+  "@of": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "start": "إبدا الاختبار",
+  "@start": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "reset": "إعادة الإختبار",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "bon": "إلتزامك جيد بالوصفة الطبية",
+  "@bonne": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "moy": "إلتزامك متوسط نوعا ما بالوصفة الطبية ",
+  "@start": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "mal": "إلتزامك سيئ بالوصفة الطبية",
+  "@start": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+
+
+
+
+
+  "minute": "دقيقة",
+  "@minute": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "qst": "أسئلة",
+  "@qst": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "level": "المستوى",
+  "@level": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "normal": "عادي",
+  "@normal": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "test": "اختبار",
+  "@test": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "result": "النتيجة الخاصة بك:",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  }
+  
+  "medecament": "عقار",
+  "@medecament": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "slt": "مرحبا، ",
+  "@slt": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "home": "الصفحة الرئيسية",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "about": "معلومات عنا",
+  "@about": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "settings": "الإعدادات",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "testdesc": "هذا الإختبار يهدف إلى تمكين المريض او المستعمل من التحقق من إلتزامه بالوصفة مدى تفاعل الأدوية مع صحته",
+  "@testdesc": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+
+  "Aboutusdesc": "يستخدم هذا التطبيق من قبل متخصصي الرعاية الصحية والمرضى في التقييم الذاتي ، وهو أداة بسيطة وموثوقة لتقدير مدى الامتثال للأدوية في غسيل الكلى المزمن ومرضى زرع الكلى باستخدام استبيان Girerd.",
+  "@testdesc": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+
+  "nadia": "نادية بوشملة",
+  "@nadia": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "meriem": "مريم شتاتي",
+  "@meriem": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "mohamed": "محمد بومور",
+  "@mohamed": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "ourteam": "فريقنا",
+  "@ourteam": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "doctor": "دكتورة",
+  "@doctor": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "dev": "مهندس برمجيات",
+  "@dev": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "goodword": "جيد",
+  "@goodword": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+  "badword": "سيئ",
+  "@badword": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "normalword": "عادي",
+  "@normalword": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "resultsdesc": "نتائج الاختبارات الخاصة بك في غضون 30 يوما الماضية",
+  "@resultsdesc": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "sexe": "الجنس",
+  "@sexe": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "born": "تاريخ الميلاد",
+  "@born": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "ok": "حفظ",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "cancel": "إلغاء",
+  "@born": {
+    "type": "text",
+    "placeholders": {}
+  }
+  
+
+}
