@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
       return Center(child: CircularProgressIndicator(),);
     } else {
       return MaterialApp(
-        title: 'Observance',
+        title: 'Observance App',
          
          debugShowCheckedModeBanner: false,
         localizationsDelegates: [
